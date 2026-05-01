@@ -4,38 +4,59 @@
 	"youtube.com": "video",
 	"Discord": "social",
 	"Reddit": "doomscroll",
-	"Krita": "art"
+	"Krita": "art",
+	"Steam": "game_general",
+	"Overwatch": "overwatch"
   },
 
   "responses": {
 	"video": [
-	  "watching videos again? a",
-	  "please no shorts </3 a",
-      "one more video, surely a"
+	  "watching videos again?",
+	  "please no shorts </3",
+      "one more video, surely"
 	],
 
 	"social": [
-	  "please talk to meeee!! a",
-	  "talking to humans again? a",
-      "who are we gossiping with? a"
+	  "please talk to meeee!!",
+	  "talking to humans again?",
+      "who are we gossiping with?"
 	],
 
 	"doomscroll": [
-	  "doomscrolling detected a",
-	  "this place consumes souls a",
+	  "doomscrolling detected",
+	  "this place consumes souls",
       "=_ ="
 	],
 
 	"default": [
-	  "interesting... a",
-	  "mmm... a",
-      "o_ o! a"
+	  "interesting...",
+	  "mmm...",
+      "o_ o!"
 	],
 	
 	"art": [
-	  "p-pplease a naked Cirrus? a",
-	  "if its a comm, get that coinnn a",
-      "m-mommy's art?? a"
+	  "p-pplease a naked Cirrus?",
+	  "if its a comm, get that coinnn",
+      "m-mommy's art??"
+	],
+	
+	"game_general": [
+	  "gayming timeee",
+	  "time to max out achievemnts",
+	  "peak gaming hours frfr",
+	  "not now mommy is cyberbullying"
+	],
+	
+	"overwatch": [
+	  "overgooning?",
+	  "skill issue"
 	]
+  },
+
+  "animations": {
+	"social": "yapping",
+	"game_general": "gayming",
+	"art": "drawing",
+	"overwatch": "gayming"
   }
 }
