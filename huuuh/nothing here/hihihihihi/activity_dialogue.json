@@ -1,0 +1,41 @@
+{
+  "rules": {
+	"YouTube": "video",
+	"youtube.com": "video",
+	"Discord": "social",
+	"Reddit": "doomscroll",
+	"Krita": "art"
+  },
+
+  "responses": {
+	"video": [
+	  "watching videos again? a",
+	  "please no shorts </3 a",
+      "one more video, surely a"
+	],
+
+	"social": [
+	  "please talk to meeee!! a",
+	  "talking to humans again? a",
+      "who are we gossiping with? a"
+	],
+
+	"doomscroll": [
+	  "doomscrolling detected a",
+	  "this place consumes souls a",
+      "=_ ="
+	],
+
+	"default": [
+	  "interesting... a",
+	  "mmm... a",
+      "o_ o! a"
+	],
+	
+	"art": [
+	  "p-pplease a naked Cirrus? a",
+	  "if its a comm, get that coinnn a",
+      "m-mommy's art?? a"
+	]
+  }
+}
