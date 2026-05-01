@@ -6,7 +6,8 @@
 	"Reddit": "doomscroll",
 	"Krita": "art",
 	"Steam": "game_general",
-	"Overwatch": "overwatch"
+	"Overwatch": "overwatch",
+    "rule34": "gooning"
   },
 
   "responses": {
@@ -50,6 +51,11 @@
 	"overwatch": [
 	  "overgooning?",
 	  "skill issue"
+	],
+	
+	"gooning": [
+	  "mmmh~~ harder",
+	  "ugh mmm fat juicy cock"
 	]
   },
 
